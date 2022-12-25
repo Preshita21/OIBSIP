@@ -1,2 +1,2 @@
-ATM Interface.
-Below is the code for ATM interface (task 3) in java developement by Oasis Infobyte. Hope it will help you!
+To guess a random (task2) and ATM Interface(task 3)
+Below is the code for both the tasks mentioned . Hope it will help you!
